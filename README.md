@@ -1,7 +1,6 @@
 #SnapshotRandomDelegators
 -------------------
 
-
 [SnapshotRandomDelegators] is a script to take a snapshot of random delegators in your stake pools. Sample using BERRY Stake Pool.
 -------------------
 
