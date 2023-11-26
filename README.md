@@ -1,7 +1,8 @@
-# SnapshotRandomDelegators
+#SnapshotRandomDelegators
 -------------------
 
-[SnapshotRandomDelegators] is a script to take a snapshot of a random delegators in your stake pools
+
+[SnapshotRandomDelegators] is a script to take a snapshot of random delegators in your stake pools. Sample using BERRY Stake Pool.
 -------------------
 
 Output Sample
@@ -9,7 +10,7 @@ Output Sample
 ![](images/snapshot.jpg)
 
 
-How to run on Glitch?
+How to run ?
 -------------------
 - git clone `https://github.com/deadrepo/SnapshotRandomDelegators.git`
 - pip install -r `requirements.txt`
@@ -21,12 +22,9 @@ API Endpoints
   
 Info
 -------------------
-- Data from [Koios]([http://www.e-solat.gov.my](https://api.koios.rest/api/v0/pool_delegators?_pool_bech32=pool19f6guwy97mmnxg9dz65rxyj8hq07qxud886hamyu4fgfz7dj9gl))
-
-
-Improvement to be made
--------------------
-- 12 hours version
+- [CEXplorer](https://cexplorer.io/pool/pool19f6guwy97mmnxg9dz65rxyj8hq07qxud886hamyu4fgfz7dj9gl)
+- You can change the endpoints by changing the _pool_bech32=
+- You can get the _pool_bech32 at CEXplorer or Cardanoscan
 
 Made by [deadrepo]
 -------------------
