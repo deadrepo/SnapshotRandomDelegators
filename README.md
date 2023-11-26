@@ -17,7 +17,7 @@ How to run on Glitch?
 
 API Endpoints
 -------------------
-- Data from [Koios](http://www.e-solat.gov.my](https://api.koios.rest/api/v0/pool_delegators?_pool_bech32=pool19f6guwy97mmnxg9dz65rxyj8hq07qxud886hamyu4fgfz7dj9gl)
+- Data from [JAKIM's E-Solat](http://www.e-solat.gov.my)
   
 Info
 -------------------
