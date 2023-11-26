@@ -13,7 +13,7 @@ How to run ?
 -------------------
 - git clone `https://github.com/deadrepo/SnapshotRandomDelegators.git`
 - pip install -r `requirements.txt`
-- python3 `app.py`
+- python3 `main.py`
 
 API Endpoints
 -------------------
